@@ -1,0 +1,4 @@
+#Sat Jan 25 11:53:29 CLST 2025
+base.0=D\:\\THG\\Hunting Treasure Game\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
